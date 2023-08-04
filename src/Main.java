@@ -19,7 +19,7 @@ public class Main {
         int divide = firstNumber / secondNumber;
         int remainder = firstNumber % secondNumber;
 
-        System.out.println("The result of sum is "+ sum + "\n The result of subtract is " + subtract + "\n The result of multiply is " + multiply + "\n The result of divide is " + divide +"\n The result of remainder is " + remainder);*/
+        System.out.println("The result of the sum is "+ sum + "\n The result of the subtract is " + subtract + "\n The result of the multiply is " + multiply + "\n The result of the divide is " + divide +"\n The result of the remainder is " + remainder);*/
 
         //Q2: Write a Java program to convert a given string into lowercase.
 
@@ -28,7 +28,7 @@ public class Main {
 
         String text = input.nextLine();
         String newText = text.toLowerCase();
-        System.out.println("The result of text is " + newText);*/
+        System.out.println("The result of the text is " + newText);*/
 
         //Q3: Write a Java program that takes a string and a number from the user,then prints the character in the given index.
 
